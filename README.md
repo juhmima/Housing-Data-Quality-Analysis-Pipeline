@@ -18,7 +18,7 @@ To evaluate reliability, I tested the pipeline using clean data and created deli
 
 ## 3. Project Structure
 
-- `housing.csv` — Input housing dataset.
+- `housing.csv` — Input housing dataset (Housing Prices Dataset by Yasser H on Kaggle)
 - `validate_housing.py` — Checks data quality and reports validation failures.
 - `analyze_housing.py` — Calculates descriptive statistics.
 - `plot_price_distribution.py` — Generates a housing-price distribution histogram.
